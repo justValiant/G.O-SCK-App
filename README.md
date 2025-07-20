@@ -1,6 +1,6 @@
 # 📊 G.O SCK App
 <br>
-<img src="https://imgur.com/uD5VTxW.png" alt="Poligraph Screenshot" width="200">
+<img src="https://imgur.com/Yw1QwjA.png" alt="G.O SCK App Screenshot" width="200">
 <br>
 A Grand Opening school app in your pocket
 <br>
@@ -13,11 +13,19 @@ This app was created using [Kodular](https://www.kodular.io) – a visual, drag-
 <br>
 
 ## ✨ Features
-
+- ✅ Easy to use
+- ⚡ Lightweight
+- 🎨 Modern design
+- 🌐 Built-in web browser
+- 🎵 Mini music player
+- 📅 Realtime date
 <br>
 
 ## 🖼️ Screenshots
-<img src="https://imgur.com/FUEaYnP.png" alt="Poligraph Screenshot" width="200">
+<img src="https://imgur.com/XCDLfX7.png" alt="G.O SCK App Screenshot" width="200"> <img src="https://imgur.com/B6CDqD3.png" alt="G.O SCK App Screenshot" width="200">
+<img src="https://imgur.com/NSjqv2Q.png" alt="G.O SCK App Screenshot" width="200">
+<img src="https://imgur.com/QnoECSM.png" alt="G.O SCK App Screenshot" width="200">
+<img src="https://imgur.com/rkK9Yhc.png" alt="G.O SCK App Screenshot" width="200">
 <br>
 
 ## 🔧 Installation
